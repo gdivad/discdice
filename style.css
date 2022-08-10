@@ -11,7 +11,7 @@
 	border-radius: 3vw;
 	cursor: pointer;
 	color: #FFFFFF;
-	margin-top: 2vw;
+	margin-top: 14vw;
 	
 }
 
@@ -31,7 +31,7 @@
 	border: 1vw solid black;
 	border-spacing: 4vw;
 	border-radius: 1vw;
-	margin-top: 5vw;
+	margin-top: 12vw;
 	text-align: center;
 }
 
@@ -60,10 +60,8 @@
 	background-color: black;
 	color: #FFFFFF;
 	text-align: center;
-	
-
-
 }
+
 
 
 body{
