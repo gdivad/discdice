@@ -31,7 +31,21 @@
 	border: 1vw solid black;
 	border-spacing: 4vw;
 	border-radius: 1vw;
-	margin-top: 3vw;
+	margin-top: 5vw;
+	text-align: center;
+}
+
+.randomThrow{
+	
+	font-family: "";
+	text-transform: uppercase;
+	font-size: 8vw;
+	margin: auto;
+	width: 75%;
+	border: 1vw solid black;
+	border-spacing: 4vw;
+	border-radius: 1vw;
+	margin-top: 5vw;
 	text-align: center;
 }
 
